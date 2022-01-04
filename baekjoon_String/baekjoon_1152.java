@@ -1,4 +1,4 @@
-package baekjoon_Function;
+package baekjoon_String;
 
 import java.util.Scanner;
 import java.util.StringTokenizer;

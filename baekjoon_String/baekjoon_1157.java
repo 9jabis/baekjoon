@@ -1,4 +1,4 @@
-package baekjoon_Function;
+package baekjoon_String;
 import java.util.Scanner;
 
 public class baekjoon_1157 {
